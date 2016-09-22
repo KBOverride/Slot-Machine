@@ -1,2 +1,3 @@
 # Slot-Machine
 basic slot machine GUI
+I don't encourage gambling...
